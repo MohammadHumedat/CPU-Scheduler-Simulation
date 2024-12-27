@@ -1,0 +1,4 @@
+﻿  CPU Scheduler Homework.cpp
+C:\Users\Asus\OneDrive\سطح المكتب\CPP files\CPU Scheduler Simulation\CPU Scheduler Homework.cpp(51,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\OneDrive\سطح المكتب\CPP files\CPU Scheduler Simulation\CPU Scheduler Homework.cpp(104,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CPU Scheduler Simulation.vcxproj -> C:\Users\Asus\OneDrive\سطح المكتب\CPP files\CPU Scheduler Simulation\x64\Debug\CPU Scheduler Simulation.exe
